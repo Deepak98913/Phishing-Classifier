@@ -1,0 +1,7 @@
+model_selection:
+    model:
+      XGBClassifier:
+        search_param_grid:
+          max_depth:
+            
+          
